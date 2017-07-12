@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Admin\Downloads\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Admin\Downloads\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\src\debug\jniLibs"/></dataSet></merger>
