@@ -2,6 +2,9 @@
 ##MNIST demo on an android app
 ##Demo 
 
-![screenshot_2017-07-12-14-56-57](https://user-images.githubusercontent.com/15515106/28111689-fe321704-6713-11e7-9af8-6b62c8e38a49.png)
-![screenshot_2017-07-12-14-57-06](https://user-images.githubusercontent.com/15515106/28111691-fe41bd1c-6713-11e7-8cdf-658b7382c02d.png)
-![screenshot_2017-07-12-14-57-19](https://user-images.githubusercontent.com/15515106/28111690-fe3a546e-6713-11e7-8d4c-29d9a7f0231b.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/15515106/28111689-fe321704-6713-11e7-9af8-6b62c8e38a49.png" height="600" width="400">
+<img src="https://user-images.githubusercontent.com/15515106/28111691-fe41bd1c-6713-11e7-8cdf-658b7382c02d.png" height="600" width="400">
+<img src="https://user-images.githubusercontent.com/15515106/28111690-fe3a546e-6713-11e7-8d4c-29d9a7f0231b.png" height="600" width="400">
+</p>
+
